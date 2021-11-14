@@ -1,0 +1,8 @@
+  GNU nano 2.9.3                   requirements.txt                             
+
+flask
+gluoncv
+matplotlib
+mxnet
+requests
+Pillow
